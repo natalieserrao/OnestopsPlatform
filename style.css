@@ -1,0 +1,96 @@
+body {
+    background-color: #333333;
+}
+
+#maps {
+    width: 1500px;
+    height: 650px;
+}
+.imgs {
+    width: 270px;
+    height: 270px;
+    margin: 4px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+#shortcut {
+    font-size: 50px;
+    color: #cc33ff;
+}
+
+#heading {
+    font-size: 75px;
+    color: #ffffff;
+}
+#games {
+    font-size: 50px;
+    color: #66ffff;
+}
+#smartappliances {
+    font-size: 50px;
+    color: #ffff99;
+}
+.set1 {
+    background-color: #ffff99;
+    width: 170px;
+    height: 50px;
+    margin: 4px;
+    margin-left: 200px;
+    margin-right: 200px;
+    border-radius: 15px;
+    font-size: 25px;
+    font-weight: bold;
+}
+.set2 {
+    background-color: #66ffff;
+    width: 170px;
+    height: 50px;
+    margin: 4px;
+    margin-left: 200px;
+    margin-right: 200px;
+    border-radius: 15px;
+    font-size: 25px;
+    font-weight: bold;
+}
+.set3 {
+    background-color: #cc33ff;
+    width: 170px;
+    height: 50px;
+    margin: 4px;
+    margin-left: 200px;
+    margin-right: 200px;
+    border-radius: 15px;
+    font-size: 25px;
+    font-weight: bold;
+}
+#shapedrawer {
+    width: 170px;
+    height: 65px;
+}
+#shapeformula {
+    width: 170px;
+    height: 65px;
+}
+#weatherforecast {
+    width: 170px;
+    height: 65px;
+}
+#catchtheballs {
+    width: 170px;
+    height: 65px;
+}
+#matchthecolor {
+    width: 170px;
+    height: 65px;
+}
+#birdwizardpiefireball {
+    width: 170px;
+    height: 65px;
+}
+#profitlosscalculator {
+    width: 180px;
+    height: 65px;
+}
+.credits {
+    color: #ffffff;
+}
